@@ -51,3 +51,9 @@ HIGHLIGHT MAKER를 통해 시청자의 표정을 인식하여 로그를 생성�
   ![](https://github.com/pouder-Man/Highlight_Maker/blob/master/image/08_result01.png)
   ![](https://github.com/pouder-Man/Highlight_Maker/blob/master/image/09_result02.png)
   ![](https://github.com/pouder-Man/Highlight_Maker/blob/master/image/10_result03.png)
+
+
+## LICENSE
+highlight-maker is available under the MIT license. See LICENSE file for details.
+
+
