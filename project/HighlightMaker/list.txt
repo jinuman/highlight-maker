@@ -1,0 +1,4 @@
+file '.\video\highlight1.avi'
+file '.\video\highlight2.avi'
+file '.\video\highlight3.avi'
+file '.\video\highlight4.avi'
